@@ -1,4 +1,4 @@
-# Cinema Booking System
+# Calendar
 
 Компонент календарь на Vue 3 с TypeScript.
 
